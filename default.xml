@@ -4,7 +4,7 @@
   <remote name="ahmedjama-github" fetch="https://github.com/ahmedjama/" />
   <default remote="ahmedjama-github" revision="master" sync-j="4" />
   <project name="napalm-scripts/" path="." />
-  <project name="napalm/" path="napalm"  />
+  <project name="HelloWorld/" path="."  />
 <!--
   <project name="learnpythonthehardway" path="." revision="refs/tags/t1" />
   <project name="ansible-test_role2" path="roles/role2" revision="b2d50df" />
